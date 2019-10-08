@@ -1,4 +1,4 @@
-# git teste
+# git 
 
 Demonstrações de comandos git
 
